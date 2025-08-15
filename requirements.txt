@@ -1,7 +1,7 @@
-# Liste des dépendances requises pour le projet
-# Ajoutez d'autres bibliothèques nécessaires ci-dessous
+# List of required dependencies for the project
+# Add other necessary libraries below
 boto3
-# Exemple de dépendance supplémentaire : requests
+# Example of an additional dependency: requests
 # requests
 
-# Fin de la liste des dépendances
+# End of the list of dependencies
