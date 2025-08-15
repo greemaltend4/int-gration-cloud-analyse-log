@@ -1,2 +1,3 @@
-# List of dependencies required for the project
+# Liste des dépendances requises pour le projet
+# Ajoutez d'autres bibliothèques nécessaires ci-dessous
 boto3
