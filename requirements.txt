@@ -1,3 +1,5 @@
 # Liste des dépendances requises pour le projet
 # Ajoutez d'autres bibliothèques nécessaires ci-dessous
 boto3
+# Exemple de dépendance supplémentaire : requests
+# requests
