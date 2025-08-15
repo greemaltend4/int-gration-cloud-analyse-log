@@ -3,3 +3,5 @@
 boto3
 # Exemple de dépendance supplémentaire : requests
 # requests
+
+# Fin de la liste des dépendances
