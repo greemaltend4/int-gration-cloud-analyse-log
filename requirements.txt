@@ -1,2 +1,2 @@
-# Liste des dépendances nécessaires pour le projet
+# List of dependencies required for the project
 boto3
