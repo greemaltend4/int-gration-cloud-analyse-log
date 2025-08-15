@@ -1,1 +1,2 @@
+# Liste des dépendances nécessaires pour le projet
 boto3
